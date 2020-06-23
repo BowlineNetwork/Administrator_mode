@@ -1,0 +1,13 @@
+name: StaffMode
+main: me.josh.staffmode.StaffMode
+version: 1.0
+author: Josh
+commands:
+  staff:
+    description: Enable or disable staff mode
+  fly:
+    description: Fly command
+  vanish:
+    description: Vanish command
+  staffchat:
+    description: StaffChat command
